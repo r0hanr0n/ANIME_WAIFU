@@ -75,7 +75,7 @@ function categoryCheck () {
             // included_tags: 'milf',
             // included_tags: 'paizuri',
             // included_tags: 'ecchi',
-            gif: true
+            // gif: true
         }
         return params;
     }    
