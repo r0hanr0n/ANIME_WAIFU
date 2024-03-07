@@ -62,13 +62,14 @@ let category = "decent";
 function categoryCheck () {
     if (category == "decent") {
         const params = {
-            // included_tags: 'waifu',
-            included_tags: 'uniform',
+            included_tags: 'waifu',
+            // included_tags: 'uniform',
         }
         return params;
     } else if (category == "horny"){
         const params = {
-            included_tags: 'waifu',
+            // included_tags: 'waifu',
+            included_tags: 'uniform',
             // included_tags: 'hentai',
             // included_tags: 'oral',
             // included_tags: 'ass',
