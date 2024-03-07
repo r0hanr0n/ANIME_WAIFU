@@ -68,8 +68,9 @@ function categoryCheck () {
         return params;
     } else if (category == "horny"){
         const params = {
+            included_tags: 'waifu',
             // included_tags: 'hentai',
-            included_tags: 'oral',
+            // included_tags: 'oral',
             // included_tags: 'ass',
             // included_tags: 'milf',
             // included_tags: 'paizuri',
